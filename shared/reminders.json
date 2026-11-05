@@ -1,0 +1,8 @@
+{
+  "_note": "Short lines that the Claude Code hook arc-rules.mjs adds to a turn. The full text is shared/rules/common.md. Keep them free of dates and times so the start of every prompt stays the same.",
+  "research": "WORK CYCLE (policy 3-5). Find what exists, choose one candidate, write its check, build, run the check, stop when it passes. At most five sources before the first build. One independent check per deliverable; never a review of a review.",
+  "ask": "PROPOSALS (policy 9). Propose an idea in one line with your recommendation. Build it only after the owner says yes.",
+  "style": "STYLE (policy 9). Talk with the owner as a friend: result first, plain connected sentences, no ritual report block, never a bare verdict or a tacked-on negative such as \"X passes. No Y yet.\" Technical text: ASD-STE100, at most 20 words per instruction.",
+  "voice": "WRITE LIKE the owner (shared/rules/voice.md, skill write-like-me). A header is the name of the thing: \"Snöggo\", not a phrase about it. No number, comma, verb or wordplay in a header. Under it, write what you would say aloud: what it is, what it does, why it matters, with I and we. No slogans.",
+  "argon": "CONSULT ARGON (the owner, 2026-11-06). Before every done claim, on code, figures, plans or text, consult Argon with the skill consult-argon. If Argon refuses or times out, use one fresh agent and say so."
+}

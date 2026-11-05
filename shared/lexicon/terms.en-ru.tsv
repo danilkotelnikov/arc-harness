@@ -1,0 +1,23 @@
+english	russian	avoid_en	avoid_ru	note
+nanobody	нанотело	VHH binder|single-domain thing	наноантитело|однодоменник	VHH is allowed in methods text
+antibody	антитело	Ab	АТ
+antigen	антиген
+epitope	эпитоп
+complementarity-determining region (CDR)	гипервариабельная петля (CDR)		CDR-регион
+free energy	свободная энергия		свободная энергетика
+binding free energy	свободная энергия связывания	binding energy	энергия связки
+mutation	мутация	variant change	мутирование
+force field	силовое поле		форс-филд
+molecular dynamics	молекулярная динамика	MD sim	МД-симуляция	MD allowed after first use
+capsid	капсид	viral shell	вирусная оболочка
+coat protein	белок оболочки		коат-белок
+genome placement	укладка генома	genome packing	упаковка генома
+rare-earth element	редкоземельный элемент	REE	РЗМ	REE allowed after first use
+extractant	экстрагент	extracting agent	экстрагирующий агент
+separation factor	коэффициент разделения		фактор разделения
+model	модель
+training	обучение		тренировка
+dataset	набор данных		датасет
+benchmark	эталонный тест		бенчмарк
+pipeline	конвейер		пайплайн
+evidence level	уровень доказательности

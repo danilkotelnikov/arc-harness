@@ -1,0 +1,8 @@
+# the owner's own words and session details stay on the laptop.
+lessons/inbox.jsonl
+usage.jsonl
+__pycache__/
+*.pyc
+.env
+*.key
+.obsidian/
