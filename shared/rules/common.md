@@ -1,4 +1,4 @@
-## Working policy for every agent and all Molecullage development (arc-harness, the owner, version 7, 2026-11-06)
+## Working policy for every agent (arc-harness, the owner, version 7, 2026-11-06)
 
 This file is the one source of the working rules. `tools/sync.mjs` installs it into Claude Code, Antigravity, ZCode and Codex. Change the rules here only. The text follows ASD-STE100: an instruction has at most 20 words, a description at most 25.
 
